@@ -1,0 +1,22 @@
+{
+  "name": "mongoos-app",
+  "version": "1.0.0",
+  "description": "mongoos-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elyesbenamor/mongoos-app.git"
+  },
+  "author": "elyes ben amor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elyesbenamor/mongoos-app/issues"
+  },
+  "homepage": "https://github.com/elyesbenamor/mongoos-app#readme",
+  "dependencies": {
+    "mongoose": "^5.9.14"
+  }
+}
