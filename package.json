@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/elyesbenamor/mongoos-app#readme",
   "dependencies": {
-    "mongoose": "^5.9.14"
+    "async-validator": "^3.3.0",
+    "mongoose": "^5.9.14",
+    "mongoose-valid8": "^1.6.17"
   }
 }
